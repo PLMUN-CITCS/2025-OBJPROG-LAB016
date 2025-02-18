@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Run the java program and test all input/output pairs in the tests folder
-java_script="NumberClassifierMenu.java"
+java_script="MethodOverloading.java"
 
 declare -A results
 
